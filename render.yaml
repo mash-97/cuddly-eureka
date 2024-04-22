@@ -1,7 +1,7 @@
 databases:
   - name: cuddly-eureka
-    databaseName: cuddly-eureka
-    user: cuddly-eureka
+    databaseName: cuddly_eureka
+    user: molvo
     plan: free
 
 services:
